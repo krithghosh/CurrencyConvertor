@@ -1,0 +1,44 @@
+#currencyDropdown1 {
+  width:180px;
+}
+
+#container1
+{
+  margin-top:100px;
+  margin-left:200px;
+}
+
+#btn1 {
+  margin-left:10px;
+}
+
+#amount1 {
+  width:150px;
+}
+
+#currency {
+  width :150px;
+  margin-left:160px;
+}
+ 
+#currencyDropdown2 
+{
+  width:180px; 
+}
+
+#btn2
+{
+  margin-left:10px;
+}
+
+#addTableValues 
+{
+  width:30%;
+  margin-top:50px;
+}
+
+#tableValue
+{
+  margin-top:-220px;
+  margin-left:600px
+}
